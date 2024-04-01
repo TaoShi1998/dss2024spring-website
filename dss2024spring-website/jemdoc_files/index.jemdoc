@@ -1,0 +1,111 @@
+# jemdoc: menu{MENU}{index.html},addcss{https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css},addcss{https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css},addjs{http://ajax.aspnetcdn.com/ajax/jQuery/jquery-3.2.1.min},addjs{https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min}
+
+# == Seminar in Data Science and Information Technology (Spring 2024): /Advanced Learning Representations/ 
+
+
+Welcome to the class website of *Seminar in Data Science and Information Technology: /Advanced Learning Representations/*!
+
+ 
+
+~~~
+{Announcement}
+- *2024-4-1*: The first class will be held on Tuesday afternoon, April 2nd. Please remember to do the reading assignment before the class!
+~~~
+
+
+=== Class info
+
+*Time*: Tuesday 13:30-16:55PM
+
+*Location*: A306A
+
+This 11-week seminar course is geared towards first or second-year graduate students who are interested in the fundamental aspects and the state-of-art developments of machine learning techniques. 
+In this semester, we will cover a number of representation learning topics, including sparse representation, generative modeling, transformer-based language models, and deep graph representation learning. 
+
+*Prerequisites*: Students who have taken a graduate-level introductory machine learning class (e.g. Learning from Data or its equivalent) and received a final grade of B or above. Sufficient background in math, probability and optimization for understanding research papers is also expected.
+
+For more information about the class policies, see the [./media/dss-syllabus.pdf class syllabus].
+
+Throughout this course, we will use the *Role-Playing* format to read and discuss papers. For detailed descriptions, please refer to the [./media/role_playing_doc.pdf role-playing document].
+
+
+== Team
+
+{{
+<div id="member-container">
+    <div id="member">
+        <img src="images/people/yang.jpeg">
+        <p>
+            <b>Yang Li </b></br>
+			Instructor</br>
+			yangli@sz.tsinghua.edu.cn
+        </p>
+    </div>
+    <div id="member">
+        <img src="images/people/Tao.png">
+        <p>
+            <b>Tao Shi</b></br>
+            TA</br>
+			shitao21@mails.tsinghua.edu.cn
+        </p>
+    </div>
+</div>
+}} 
+
+
+==== Office hours
+
+~~~
+{}{table}{office-hour}
+Name | Time | Location ||
+Yang | Friday 2:00-4:00pm | Info Building 1108a || 
+Tao | Monday 2:00-4:00pm | Info Building, 1111A
+~~~
+
+
+You can also make appointments outside office hours.
+
+
+
+=== Schedule
+{{
+<table class="table table-striped" id="schedule">
+	<tr>
+		<th>Date
+		</th>
+		<th>
+			Topic
+		</th>
+    	<th>
+       		Reading Assignment
+    	</th>
+		<th>
+			Homework Release
+		</th>
+	</tr>
+	<tr>
+		<td>
+			4/2
+		</td>
+		<td>
+		Introduction 
+		    }}
+			[./media/lecture01.pdf (slides)]
+
+			[./media/discussion_question_week1.docx Discussion questions]
+			{{ 
+    	</td>
+		<td>}}
+			Sections 1-5 and 12 of the paper:  
+
+			Bengio, Yoshua, Courville, et al. [https://ieeexplore.ieee.org/document/6472238 Representation Learning: A Review and New Perspectives], IEEE Transactions on Pattern Analysis & Machine Intelligence, 2013, 35(8):1798-1828.
+
+			Payandeh, et al. [https://ieeexplore.ieee.org/ielx7/6287639/10005208/10323465.pdf?tp=&arnumber=10323465&isnumber=10005208&ref=aHR0cHM6Ly9pZWVleHBsb3JlLmllZWUub3JnL2RvY3VtZW50LzEwMzIzNDY1 Deep Representation Learning: Fundamentals,
+Technologies, Applications, and Open Challenges]
+		{{</td>
+		<td> 
+		</td>
+	</tr> 
+</table>
+}}
+
