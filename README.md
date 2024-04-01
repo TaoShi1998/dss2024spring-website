@@ -1,5 +1,5 @@
 # dss2023spring-website
-Class Website for Data Science and Information Technology Seminar (Spring 2023)
+Class Website for Data Science and Information Technology Seminar (Spring 2024)
 
 To generate html pages, go to `jemdoc_files/`, run
 
