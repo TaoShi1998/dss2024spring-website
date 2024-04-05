@@ -9,6 +9,8 @@ Welcome to the class website of *Seminar in Data Science and Information Technol
 
 ~~~
 {Announcement}
+- *2024-4-4*: Please form groups of 3-4 and [https://docs.qq.com/sheet/DVWZyZUFuaFNBY3Rp sign up for the Seminar role-playing presentation schedule]. 
+
 - *2024-4-1*: The first class will be held on Tuesday afternoon, April 2nd. Please remember to do the reading assignment before the class!
 ~~~
 
@@ -90,7 +92,7 @@ You can also make appointments outside office hours.
 		<td>
 		Introduction 
 		    }}
-			[./media/lecture01.pdf (slides)]
+			[./media/dss2024_lecture01.pdf (slides)][https://cloud.tsinghua.edu.cn/f/01466f4e26d34113a29c/ (recording)]
 
 			[./media/discussion_question_week1.docx Discussion questions]
 			{{ 
@@ -105,6 +107,19 @@ Technologies, Applications, and Open Challenges]
 		{{</td>
 		<td> 
 		</td>
+	</tr> 
+        <tr>
+		<td>
+			4/9
+		</td>
+		<td>
+			  Sparse Representation}}
+			{{
+		}} 
+    	{{</td>
+	 	<td>}}John Wright, Yi Ma, et al. [https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5456194&tag=1 Sparse Representation for Computer Vision and Pattern Recognition]. Proceedings of the IEEE.  {{</td>
+		<td>}}
+		{{</td>
 	</tr> 
 </table>
 }}
