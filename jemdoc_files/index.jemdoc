@@ -9,6 +9,8 @@ Welcome to the class website of *Seminar in Data Science and Information Technol
 
 ~~~
 {Announcement}
+- *2024-4-10*: [./media/dss2024_PA1.zip Programming Assignment 1] has been released. Due date is Tuesday April 23. 
+
 - *2024-4-4*: Please form groups of 3-4 and [https://docs.qq.com/sheet/DVWZyZUFuaFNBY3Rp sign up for the Seminar role-playing presentation schedule]. 
 
 - *2024-4-1*: The first class will be held on Tuesday afternoon, April 2nd. Please remember to do the reading assignment before the class!
@@ -114,10 +116,26 @@ Technologies, Applications, and Open Challenges]
 		</td>
 		<td>
 			  Sparse Representation}}
+                         [https://cloud.tsinghua.edu.cn/f/e89c00303bb24cd9be63/ (recording part 1)]
+                         [https://meeting.tencent.com/v2/cloud-record/share?id=9a54bdcd-6d2e-4776-ac1b-c0b5d7e1683d&from=3 (recording part 2)]
 			{{
 		}} 
     	{{</td>
 	 	<td>}}John Wright, Yi Ma, et al. [https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5456194&tag=1 Sparse Representation for Computer Vision and Pattern Recognition]. Proceedings of the IEEE.  {{</td>
+		<td>}}
+                [/media/dss2024_PA1.zip Programming Assignment 1: Dictionary Learning]
+		{{</td>
+	</tr> 
+        <tr>
+		<td>
+			4/16
+		</td>
+		<td>
+			  Non-linear Dimension Reduction: Variational Autoencoders}}
+			{{
+		}} 
+    	{{</td>
+	 	<td>}}Doersch, Carl. [https://arxiv.org/abs/1606.05908 “Tutorial on variational autoencoders.”] arXiv preprint arXiv:1606.05908, 2016.  {{</td>
 		<td>}}
 		{{</td>
 	</tr> 
