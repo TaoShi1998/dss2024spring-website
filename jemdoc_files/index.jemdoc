@@ -9,6 +9,8 @@ Welcome to the class website of *Seminar in Data Science and Information Technol
 
 ~~~
 {Announcement}
+- *2024-4-23*: [./media/dss2024_PA3.zip Programming Assignment 3] has been released. Due date is Saturday May 14. 
+
 - *2024-4-20*: [./media/dss2024_PA2.zip Programming Assignment 2] has been released. Due date is Saturday May 4. 
 
 - *2024-4-10*: [./media/dss2024_PA1.zip Programming Assignment 1] has been released. Due date is Tuesday April 23. 
@@ -151,10 +153,26 @@ Technologies, Applications, and Open Challenges]
 		</td>
 		<td>
 			  Deep Generative Models: Generative Adversarial Networks}}
+                          [/media/dss2024_GAN.pdf (slides)]
+                          [https://meeting.tencent.com/v2/cloud-record/share?id=42d7a180-0876-4873-9fc7-bb52ae36774f&from=3&record_type=2 (recording)]
 			{{
 		}} 
     	{{</td>
 	 	<td>}}Ian J. Good-fellow et al. [https://arxiv.org/abs/1406.2661 “Generative Adversarial Networks”], Advances in neural information processing systems 27 (2014).  {{</td>
+		<td>}}
+                [/media/dss2024_PA3.zip Programming Assignment 3: DCGAN for Celebrity Image Generation] 
+		{{</td>
+	</tr> 
+        <tr>
+		<td>
+			5/7
+		</td>
+		<td>
+			  Deep Generative Models: Diffusion Models}}
+			{{
+		}} 
+    	{{</td>
+	 	<td>}}Calvin Luo et al. [https://arxiv.org/pdf/2208.11970.pdf “Understanding Diffusion Models: A Unified Perspective”], arXiv (2022).  {{</td>
 		<td>}}
 		{{</td>
 	</tr> 
