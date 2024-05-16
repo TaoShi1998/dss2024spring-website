@@ -9,6 +9,10 @@ Welcome to the class website of *Seminar in Data Science and Information Technol
 
 ~~~
 {Announcement}
+- *2024-5-14*: [./media/dss2024_PA5.zip Programming Assignment 5] has been released. Due date is Tuesday June 4. 
+
+- *2024-5-8*: [./media/dss2024_PA4.zip Programming Assignment 4] has been released. Due date is Wednesday May 29. 
+
 - *2024-4-23*: [./media/dss2024_PA3.zip Programming Assignment 3] has been released. Due date is Saturday May 14. 
 
 - *2024-4-20*: [./media/dss2024_PA2.zip Programming Assignment 2] has been released. Due date is Saturday May 4. 
@@ -169,13 +173,46 @@ Technologies, Applications, and Open Challenges]
 		</td>
 		<td>
 			  Deep Generative Models: Diffusion Models}}
+                          [/media/dss2024_diffusion.pdf (slides)]
+                          [https://meeting.tencent.com/v2/cloud-record/share?id=c56f7cf9-53b8-47d4-a1e4-05f8406a8df8&from=3&record_type=2 (recording)]
 			{{
 		}} 
     	{{</td>
 	 	<td>}}Calvin Luo et al. [https://arxiv.org/pdf/2208.11970.pdf “Understanding Diffusion Models: A Unified Perspective”], arXiv (2022).  {{</td>
 		<td>}}
+                [/media/dss2024_PA4.zip Programming Assignment 4: Diffusion Models] 
+		{{</td>
+	</tr>
+        <tr>
+		<td>
+			5/14
+		</td>
+		<td>
+			  Self-Attention Networks: Transformers}}
+                          [/media/dss2024_transformer.pdf (slides)]
+                          [https://meeting.tencent.com/v2/cloud-record/share?id=4fb8da60-56f7-4308-aa37-0709a0599589&from=3&record_type=2 (recording)]
+			{{
+		}} 
+    	{{</td>
+	 	<td>}}Dan Jurafsky and James H. Martin. [https://web.stanford.edu/~jurafsky/slp3/10.pdf Chapter 10.1 of “Speech and Language Processing (3rd ed. draft)”]. Jan 2023.  {{</td>
+		<td>}}
+                [/media/dss2024_PA5.zip Programming Assignment 5: Transformers for Machine Translation] 
 		{{</td>
 	</tr> 
+        <tr>
+		<td>
+			5/23
+		</td>
+		<td>
+			  Guest Lecture (Prof. Li Liu)}}
+			{{
+		}} 
+    	{{</td>
+	 	<td>}}[https://liliu-avril.github.io Multimodal Audio-Visual Speech Processing] {{</td>
+		<td>}}
+		{{</td>
+	</tr> 
+
 </table>
 }}
 
