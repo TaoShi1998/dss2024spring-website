@@ -205,14 +205,29 @@ Technologies, Applications, and Open Challenges]
 		</td>
 		<td>
 			  Guest Lecture (Prof. Li Liu)}}
+                        [https://meeting.tencent.com/v2/cloud-record/share?id=c070cf1d-1980-43e7-93b8-3d8db6c6e197&from=3 (recording, password: cued)]
 			{{
 		}} 
     	{{</td>
-	 	<td>}}[https://liliu-avril.github.io Multimodal Audio-Visual Speech Processing] {{</td>
+	 	<td>}}最新线索语视频自动识别与生成研究 {{</td>
 		<td>}}
+                No Homework Assignment
 		{{</td>
 	</tr> 
-
+        <tr>
+		<td>
+			5/28
+		</td>
+		<td>
+			  White-Box Transformers}}
+			{{
+		}} 
+    	{{</td>
+	 	<td>}}Yaodong Yu et al. [https://arxiv.org/pdf/2306.01129 "White-Box Transformers via Sparse Rate Reduction"]. arXiv preprint arXiv:2306.01129 (2023). {{</td>
+		<td>}}
+                [/media/dss2024_PA6.zip Programming Assignment 6: White-Box Transformers] 
+		{{</td>
+	</tr> 
 </table>
 }}
 
